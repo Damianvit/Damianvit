@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Damianvit
 - 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning Tensorflow on a ZTM udemy course
+
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me https://www.linkedin.com/in/damian-vitus-64a58119b
 
