@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Damianvit
-- 👀 I’m interested in Artificial Intelligence 
-
-- 💞️ I’m looking to collaborate on AI projects
+- 👀 I enjoy teaching productive coding skills.
+- 💞 I am currently growing my Youtube channel. https://www.youtube.com/@Damianvit_oficial
 - 📫 How to reach me https://www.linkedin.com/in/damian-vitus-64a58119b
 WhatsApp +2348163993991
 
